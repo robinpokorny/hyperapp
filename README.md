@@ -24,7 +24,7 @@ HyperApp is a JavaScript library for building frontend applications.
 <!--[Get started with HyperApp](https://www.gitbook.com/book/hyperapp/hyperapp).-->
 [HyperApp User Guide]: https://hyperapp.gitbooks.io/hyperapp/content/quickstart/setup.html
 
-See the [HyperApp User Guide] for live examples and documentation.
+See the [HyperApp User Guide] for setup instructions and documentation.
 
 ## Installation
 <pre>

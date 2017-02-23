@@ -39,6 +39,11 @@ In the browser via the [CDN].
 const { h, app } = hyperapp
 ```
 
+## Documentation
+[HyperApp User Guide]: https://hyperapp.gitbooks.io/hyperapp/content/quickstart/setup.html
+
+See the [HyperApp User Guide] for setup instructions, tutorials and the API reference.
+
 ## Examples
 <details><summary>Hello World</summary>
 
@@ -220,95 +225,8 @@ app({
 
 [See more examples](https://hyperapp.gomix.me).
 
-## Documentation
-* [h(tag, data, children)](#htag-data-children)
-* [app(options)](#appoptions)
-    * [model](#model)
-    * [reducers](#reducers)
-    * [view](#view)
-        * [Lifecycle Methods](#lifecycle-methods)
-    * [effects](#effects)
-    * [subscriptions](#subscriptions)
-    * [hooks](#hooks)
-        * [onAction](#onaction)
-        * [onUpdate](#onupdate)
-        * [onError](#onerror)
-    * [root](#root)
-    * [router](#router)
-        * [setLocation](#actionssetlocation)
-        * [href](#href)
+---
 
-## h(tag, data, children)
-Creates a virtual DOM node.
-
-* `tag` is a tag name, e.g. `div` or a function that returns a tree of virtual nodes.
-* `data` is an object with attributes, styles, events, properties, [lifecycle methods](#lifecycle-methods), etc.
-* `children` is an array of children virtual nodes. (Optional)
-
-<details><summary><i>Example</i></summary>
-
-```jsx
-app({
-    model: "Hi.",
-    view: model => h("h1", {}, model)
-})
-```
-
-[View online](http://codepen.io/jbucaran/pen/VPqoYR?editors=0010)
-</details>
-
-[HyperApp User Guide]: https://hyperapp.gitbooks.io/hyperapp/content/quickstart/setup.html
-
-See the [HyperApp User Guide] for JSX/Hyperx setup instructions.
-
-## app(options)
-Starts the application.
-
-<pre>
-app({
-    <a href="#model">model</a>,
-    <a href="#reducers">reducers</a>,
-    <a href="#view">view</a>,
-    <a href="#effects">effects</a>,
-    <a href="#subscriptions">subscriptions</a>,
-    <a href="#root">root</a>,
-    <a href="#router">router</a>
-})
-</pre>
-
-### model
-The model is a primitive type, array or object that represents the state of your application. HyperApp applications use a single model architecture.
-
-```jsx
-const model = {
-    count: 0
-}
-```
-
-### reducers
-Reducers are actions that describe how to derive a new model from the current model.
-
-```jsx
-const reducers = {
-    add: model => model + 1,
-    sub: model => model - 1
-}
-```
-
-A reducer can return a new model or part of a model. If it returns part of a model, it will be merged with the current model.
-
-A reducer can be triggered inside a [view](#view), [effect](#effects) or [subscription](#subscriptions).
-
-A reducer has the following signature: `(model, data, params)`.
-
-* `model` is the current model.
-* `data` is the data sent to the reducer.
-
-When using the [router](#router), reducers receives an additional argument:
-
-<a name="params"></a>
-
-* `params` is an object with the matched route parameters.
 
 ### view
 A view is a function that returns a virtual DOM tree. See [`h`](#h).

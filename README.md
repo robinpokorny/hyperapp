@@ -22,7 +22,7 @@ HyperApp is a JavaScript library for building frontend applications.
 * **Batteries-included**: Out of the box, HyperApp has Elm-like state management, a virtual DOM engine and a router; it still weighs `1kb` and has no dependencies.
 
 <!--[Get started with HyperApp](https://www.gitbook.com/book/hyperapp/hyperapp).-->
-[HyperApp User Guide]: https://hyperapp.gitbooks.io/hyperapp/content/quickstart/setup.html
+[HyperApp User Guide]: https://www.gitbook.com/book/hyperapp/hyperapp/details
 
 See the [HyperApp User Guide] for setup instructions and documentation.
 

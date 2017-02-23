@@ -1,5 +1,9 @@
 # Contributing
 
+Thank you for contributing to HyperApp! 👋
+
+Below you'll find...
+
 When the siren's flash is gone
 And we're left to carry on
 All the memories are too few

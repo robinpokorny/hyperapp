@@ -42,7 +42,7 @@ const { h, app } = hyperapp
 ## Documentation
 [HyperApp User Guide]: https://hyperapp.gitbooks.io/hyperapp/content/quickstart/setup.html
 
-See the [HyperApp User Guide] for setup instructions, tutorials and the API reference.
+See the [HyperApp User Guide] for installation and setup instructions, tutorials, the API reference and more.
 
 ## Examples
 <details><summary>Hello World</summary>

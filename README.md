@@ -5,26 +5,21 @@
 [![version](https://img.shields.io/npm/v/hyperapp.svg)](https://www.npmjs.org/package/hyperapp)
 [![slack](https://hyperappjs.herokuapp.com/badge.svg)](https://hyperappjs.herokuapp.com)
 
-[Browserify]: https://github.com/substack/node-browserify
-[Webpack]: https://github.com/webpack/webpack
-[Rollup]: https://github.com/rollup/rollup
-[Hyperx]: https://github.com/substack/hyperx
-[JSX]: https://facebook.github.io/react/docs/introducing-jsx.html
-[Babel]: http://babeljs.io/
-[DOM]: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-[Elm Architecture]: https://guide.elm-lang.org/architecture/
-[CDN]: https://cdnjs.com/libraries/hyperapp
-
 HyperApp is a JavaScript library for building frontend applications.
 
+[Elm Architecture]: https://guide.elm-lang.org/architecture/
+[Hyperx]: https://github.com/substack/hyperx
+[JSX]: https://facebook.github.io/react/docs/introducing-jsx.html
+[CDN]: https://unpkg.com/hyperapp
+
 * **Declarative**: HyperApp's design is based on the [Elm Architecture]. Create scalable browser-based applications using a functional paradigm. The twist is you don't have to learn a new language.
-* **Stateless components**: Build complex user interfaces from micro-components. Stateless components are framework agnostic, reusable and easier to debug.
+* **Stateless components**: Build complex user interfaces from micro-components. Stateless components are framework agnostic, reusabl and easier to debug.
 * **Batteries-included**: Out of the box, HyperApp has Elm-like state management, a virtual DOM engine and a router; it still weighs `1kb` and has no dependencies.
 
-<!--[Get started with HyperApp](https://www.gitbook.com/book/hyperapp/hyperapp).-->
-[HyperApp User Guide]: https://www.gitbook.com/book/hyperapp/hyperapp/details
+HyperApp is not opinionated about your stack either; we're compatible with all bundlers and work well with [Hyperx] or [JSX] -- it's your choice.
 
-See the [HyperApp User Guide] for setup instructions and documentation.
+
+[Get started with HyperApp](/wiki).
 
 ## Installation
 <pre>
@@ -41,19 +36,6 @@ In the browser via the [CDN].
 ```jsx
 const { h, app } = hyperapp
 ```
-
-Start your application.
-<pre>
-app({
-    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#model">model</a>,
-    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#reducers">reducers</a>,
-    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#view">view</a>,
-    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#effects">effects</a>,
-    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#subscriptions">subscriptions</a>,
-    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#root">root</a>,
-    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#router">router</a>
-})
-</pre>
 
 ## [Examples](https://hyperapp.gomix.me)
 <details><summary>Hello World</summary>
@@ -235,3 +217,10 @@ app({
 </details>
 
 
+## Contributing
+
+To contribute to HyperApp, please see [CONTRIBUTING](CONTRIBUTING.md).
+
+## License
+
+HyperApp is distributed under the terms of the MIT license. See [LICENSE](LICENSE).

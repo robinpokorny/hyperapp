@@ -1,32 +1,39 @@
 # Contributing
 
-Thank you for your interest in contributing to HyperApp!
+Thank you for your interest in contributing to HyperApp! 👋
 
-* [Feature Requests](##feature-requests)
 * [Bug Reports](#bug-reports)
 * [Pull Requests](#pull-requests)
 * [Writing Documentation](#writing-documentation)
-* [Changelog and Releases](#changelog-and-releases)
-* [Tests](#tests)
+* [Code of Conduct](#code-of-conduct)
 * [Other](#other)
 
-
-## Feature Requests
 ## Bug Reports
+
+Please report liberally. If you're not sure if something is a bug or not, feel free to file a bug anyway. If you have a feature request, create an issue for that as well.
+
 ## Pull Requests
+
+Pull requests are the primary mechanism we use to develop HyperApp.
+
+To start hacking on HyperApp, [fork](https://github.com/hyperapp/hyperapp/fork) the project, commit your changes and [create a pull request](https://github.com/hyperapp/hyperapp/pull/new/master) against the master branch.
+
 ## Writing Documentation
 
-HyperApp's getting started guide and documentation is located in the [Wiki](/wiki)
+HyperApp's getting started guide and documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Anyone can create and edit pages and contributions are very welcome.
 
+## Code of Conduct
 
-
-If you would like to become a collaborator, create an issue and ask to be added to the list.
-
-## Changelog and Releases
-## Tests
+* Be friendly and patient.
+* Be welcoming
+* Be considerate.
+* Be respectful.
+* Be careful in the words that you choose.
 
 ## Other
 
-If you have any questions or need help with your HyperApp project, [join the Slack](https://hyperappjs.herokuapp.com/) community and don't be afraid to ask.
+If you would like to become a collaborator in this repository, create an issue and ask to be added. Please explain how you plan to contribute to the project.
 
-To learn about updates and new releases, [follow us](https://twitter.com/hyperappjs) on Twitter. 👋
+If you need help with your HyperApp project, [join the Slack](https://hyperappjs.herokuapp.com/) community and don't be afraid to ask any questions.
+
+To learn about updates and new releases, [follow us](https://twitter.com/hyperappjs) on Twitter.

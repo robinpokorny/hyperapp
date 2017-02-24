@@ -16,17 +16,18 @@ HyperApp is a JavaScript library for building frontend applications.
 * **Stateless components**: Build complex user interfaces from micro-components. Stateless components are framework agnostic, reusabl and easier to debug.
 * **Batteries-included**: Out of the box, HyperApp has Elm-like state management, a virtual DOM engine and a router; it still weighs `1kb` and has no dependencies.
 
-HyperApp is not opinionated about your stack either; we're compatible with all bundlers and work well with [Hyperx] or [JSX] -- it's your choice.
-
+HyperApp is not opinionated about your stack either; we're compatible with all bundlers and work well with [Hyperx] or [JSX].
 
 [Get started with HyperApp](https://github.com/hyperapp/hyperapp/wiki).
 
 ## Installation
+
 <pre>
 npm i -S <a href=https://npmjs.com/package/hyperapp>hyperapp</a>
 </pre>
 
 ## Usage
+
 In Node.js.
 ```jsx
 import { h, app } from "hyperapp"
@@ -38,6 +39,7 @@ const { h, app } = hyperapp
 ```
 
 ## [Examples](https://hyperapp.gomix.me)
+
 <details><summary>Hello World</summary>
 
 ```jsx
@@ -216,21 +218,14 @@ app({
 [View online](http://codepen.io/jbucaran/pen/zNxRLy?editors=0010)
 </details>
 
-## Issues
+## Bugs
 
-Please report liberally. If you're not sure if something is a bug or not, feel free to file a bug anyway. If you have a feature request, create an issue for that as well.
+Please report liberally. If you're not sure if something is a bug or not, feel free to file a bug anyway. If you have a feature request, [create an issue](https://github.com/hyperapp/hyperapp/issues) for that as well.
 
 ## Documentation
 
 HyperApp's getting started guide and documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Anyone can create and edit pages and contributions are very welcome.
 
-## Other
-
-If you need help with your HyperApp project, [join the Slack](https://hyperappjs.herokuapp.com/) community and don't be afraid to ask any questions.
-
-To learn about updates and new releases, [follow us](https://twitter.com/hyperappjs) on Twitter.
-
-
 ## License
 
-HyperApp is distributed under the terms of the MIT license. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).

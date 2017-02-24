@@ -220,12 +220,12 @@ app({
 
 ## Issues
 
-No software is free of bugs. If you're not sure if something is a bug or not, feel free to [create an issue](https://github.com/hyperapp/hyperapp/issues) anyway. Questions, feedback and feature requests are very welcome.
+No software is free of bugs. If you're not sure if something is a bug or not, feel free to [create an issue](https://github.com/hyperapp/hyperapp/issues) anyway. Questions, feedback and feature requests are welcome too.
 
 ## Documentation
 
-HyperApp's documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Feel free to contribute new content or improve any of the existing pages.
+Everything you need to know about HyperApp is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Feel free to contribute new content and improve any of the existing pages.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+HyperApp is MIT licensed. See [LICENSE](LICENSE).

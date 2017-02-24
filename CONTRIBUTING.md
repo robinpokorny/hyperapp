@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to HyperApp! 👋
+Thank you for your interest in contributing to HyperApp!
 
 * [Bug Reports](#bug-reports)
 * [Pull Requests](#pull-requests)

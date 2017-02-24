@@ -1,21 +1,32 @@
 # Contributing
 
-Thank you for contributing to HyperApp! 👋
+Thank you for your interest in contributing to HyperApp!
 
-Below you'll find...
+* [Feature Requests](##feature-requests)
+* [Bug Reports](#bug-reports)
+* [Pull Requests](#pull-requests)
+* [Writing Documentation](#writing-documentation)
+* [Changelog and Releases](#changelog-and-releases)
+* [Tests](#tests)
+* [Other](#other)
 
-When the siren's flash is gone
-And we're left to carry on
-All the memories are too few
-When the pastor's music plays
-And that casket rolls away
-I could live again if you
-Just stay alive for me
-Please stay now, you left me here alone - it's the end of the line
-Please stay I can't make it on my own - it's the end of the line
-Make it on my own
-It's the end of the line
-Now that you are dead and gone
-And I'm left to carry on
-I could never smile cause you
-Won't stay alive for me
+
+## Feature Requests
+## Bug Reports
+## Pull Requests
+## Writing Documentation
+
+HyperApp's getting started guide and documentation is located in the [Wiki](/wiki)
+
+
+
+If you would like to become a collaborator, create an issue and ask to be added to the list.
+
+## Changelog and Releases
+## Tests
+
+## Other
+
+If you have any questions or need help with your HyperApp project, [join the Slack](https://hyperappjs.herokuapp.com/) community and don't be afraid to ask.
+
+To learn about updates and new releases, [follow us](https://twitter.com/hyperappjs) on Twitter. 👋

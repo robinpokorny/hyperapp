@@ -42,7 +42,20 @@ In the browser via the [CDN].
 const { h, app } = hyperapp
 ```
 
-## Examples
+Start your application.
+<pre>
+app({
+    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#model">model</a>,
+    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#reducers">reducers</a>,
+    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#view">view</a>,
+    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#effects">effects</a>,
+    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#subscriptions">subscriptions</a>,
+    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#root">root</a>,
+    <a href="https://hyperapp.gitbooks.io/hyperapp/content/documentation/api.html#router">router</a>
+})
+</pre>
+
+## [Examples](https://hyperapp.gomix.me)
 <details><summary>Hello World</summary>
 
 ```jsx
@@ -221,4 +234,4 @@ app({
 [View online](http://codepen.io/jbucaran/pen/zNxRLy?editors=0010)
 </details>
 
-[See more examples](https://hyperapp.gomix.me).
+

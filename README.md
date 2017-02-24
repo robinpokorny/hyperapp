@@ -218,13 +218,13 @@ app({
 
 [See more examples](https://hyperapp.gomix.me).
 
-## Bugs
+## Issues
 
-Please report liberally. If you're not sure if something is a bug or not, feel free to file a bug anyway. If you have a feature request, [create an issue](https://github.com/hyperapp/hyperapp/issues) for that as well.
+No software is free of bugs. If you're not sure if something is a bug or not, feel free to [create an issue](https://github.com/hyperapp/hyperapp/issues) anyway. Questions, feedback and feature requests are welcome too.
 
 ## Documentation
 
-HyperApp's documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Anyone can create and edit pages and contributions are very welcome!
+HyperApp's documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki) and anyone is free to create and edit pages. Contributions are very welcome!
 
 ## License
 

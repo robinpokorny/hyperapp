@@ -224,7 +224,7 @@ Please report liberally. If you're not sure if something is a bug or not, feel f
 
 ## Documentation
 
-HyperApp's getting started guide and documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Anyone can create and edit pages and contributions are very welcome.
+HyperApp's getting started guide and documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Anyone can create and edit pages and contributions are very welcome!
 
 ## License
 

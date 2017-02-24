@@ -228,4 +228,4 @@ HyperApp's getting started guide and documentation is located in the [wiki](http
 
 ## License
 
-HyperApp is distributed under the terms of the MIT license. See [LICENSE](LICENSE).
+HyperApp is MIT licensed. See [LICENSE](LICENSE).

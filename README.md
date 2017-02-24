@@ -224,8 +224,8 @@ No software is free of bugs. If you're not sure if something is a bug or not, fe
 
 ## Documentation
 
-HyperApp's documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Feel free to contribute new content or edit any of the existing pages.
+HyperApp's documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Feel free to contribute new content or improve any of the existing pages.
 
 ## License
 
-HyperApp is MIT licensed. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).

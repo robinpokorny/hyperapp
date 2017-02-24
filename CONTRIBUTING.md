@@ -5,7 +5,6 @@ Thank you for your interest in contributing to HyperApp! 👋
 * [Bug Reports](#bug-reports)
 * [Pull Requests](#pull-requests)
 * [Writing Documentation](#writing-documentation)
-* [Code of Conduct](#code-of-conduct)
 * [Other](#other)
 
 ## Bug Reports
@@ -21,14 +20,6 @@ To start hacking on HyperApp, [fork](https://github.com/hyperapp/hyperapp/fork) 
 ## Writing Documentation
 
 HyperApp's getting started guide and documentation is located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Anyone can create and edit pages and contributions are very welcome.
-
-## Code of Conduct
-
-* Be friendly and patient.
-* Be welcoming
-* Be considerate.
-* Be respectful.
-* Be careful in the words that you choose.
 
 ## Other
 

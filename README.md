@@ -38,7 +38,7 @@ In the browser via the [CDN].
 const { h, app } = hyperapp
 ```
 
-## [Examples](https://hyperapp.gomix.me)
+## Examples
 
 <details><summary>Hello World</summary>
 
@@ -218,6 +218,8 @@ app({
 [View online](http://codepen.io/jbucaran/pen/zNxRLy?editors=0010)
 </details>
 
+[See more examples](https://hyperapp.gomix.me).
+
 ## Bugs
 
 Please report liberally. If you're not sure if something is a bug or not, feel free to file a bug anyway. If you have a feature request, [create an issue](https://github.com/hyperapp/hyperapp/issues) for that as well.
@@ -228,4 +230,4 @@ HyperApp's getting started guide and documentation is located in the [wiki](http
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+HyperApp is distributed under the terms of the MIT license. See [LICENSE](LICENSE).

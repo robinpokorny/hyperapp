@@ -224,7 +224,7 @@ No software is free of bugs. If you're not sure if something is a bug or not, pl
 
 ## Documentation
 
-Everything you need to know to get started with HyperApp can be found in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Feel free to contribute new content or improve any of the existing pages.
+HyperApp's documentation and guides are located in the [wiki](https://github.com/hyperapp/hyperapp/wiki). Feel free to contribute new content or improve any of the existing pages.
 
 ## License
 
